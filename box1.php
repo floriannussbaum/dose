@@ -247,8 +247,6 @@
         mainObj.imageHolder.addEventListener(mainObj.startEvent, mainObj.startHandler, false);
         mainObj.imageHolder.addEventListener(mainObj.moveEvent, mainObj.moveHandler, false);
         mainObj.imageHolder.addEventListener(mainObj.endEvent, mainObj.endHandler, false);
-  
-        //  mainObj.stopScrolling(); // TODO: scrollen stoppen
       },
       startHandler: function(event) {                         
         var eventObj = mainObj.isTouchSupported ? event.touches[0] : event;            
