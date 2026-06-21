@@ -1,4 +1,4 @@
-# dose
+# Dose
 
 An interactive 3D experience that allows users to interact with elements.
 
