@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-  <title>webGL - Dose</title>
+  <title>WebGL - Dose</title>
   <meta name="robots" content="noindex, nofollow">
   <script src="js/three.min.js"></script>
 
@@ -183,6 +183,6 @@
 </head>
 
 <body onload="onLoadComplete();">
-  <h1>webGL</h1>
+  <h1>WebGL</h1>
 </body>
 </html>
